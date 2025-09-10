@@ -2,7 +2,7 @@
 
 void setup() {
   // 1.a: Setup method
-  println("Starting Task1");
+  println("Task1");
 
   // 1.b: Call method that prints a message
   printHello();
